@@ -5,4 +5,4 @@ import os
 #comment
 
 def hello_world():
-    return 'hello python'
+    return "%s %s" %('hello','python')
